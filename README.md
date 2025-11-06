@@ -1,6 +1,4 @@
-Here is a complete, professional README.md file tailored specifically for your project, "Sypha Prompt Chat."
 
-I've based it on all the files you've provided, your `ollama list`, and the features we've built. Just copy and paste this into a new file named `README.md` in your project's root folder.
 
 -----
 
