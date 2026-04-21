@@ -2,7 +2,7 @@
 
 -----
 
-# Sypha Prompt Chat
+# Sypha Prompt Chat UI Project
 
 A simple, local-first chat interface designed for experimenting with prompt templates against open-source models running on Ollama.
 
