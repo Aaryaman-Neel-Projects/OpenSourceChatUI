@@ -6,7 +6,6 @@
 
 A simple, local-first chat interface designed for experimenting with prompt templates against open-source models running on Ollama.
 
-*(Recommendation: Upload your screenshot `image_d058d4.png` to a site like Imgur and paste the URL here)*
 
 ## 🚀 Key Features
 
